@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command TestLinkedBasePointParam</Text>
+    <Description>Some description for TestLinkedBasePointParam</Description>
+    <Assembly>TestLinkedBasePointParam.dll</Assembly>
+    <FullClassName>TestLinkedBasePointParam.Command</FullClassName>
+    <ClientId>5d1b77d8-91c5-4a60-8120-21238253617a</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
